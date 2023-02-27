@@ -12,6 +12,7 @@ openai = "^0.26.5"
 pandas = "^1.5.3"
 jsonlines = "^3.1.0"
 boto3 = "^1.26.79"
+Flask-SQLAlchemy = "^3.0.3"
 
 [tool.poetry.dev-dependencies]
 debugpy = "^1.6.2"
