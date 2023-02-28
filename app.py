@@ -1,48 +1,43 @@
-import boto3
-import uuid
-
-from flask import Flask, render_template, redirect, url_for, request
-from flask_sqlalchemy import SQLAlchemy
-
-ALLOWED_EXTENSIONS = {'txt'}
-def allowed_file(filename):
-  return '.' in filename and filename.rsplit('.',1)[1].lower() in ALLOWED_EXTENSIONS
-  
-db = SQLAlchemy()
-
-class File(db.Model):
-  id = db.Column(db.Integer, primary_key = True)
-  original_filename = db.Column(db.String(100))
-  filename = db.Column(db.String(100))
-  bucket = db.Column(db.String(100))
-  region = db.Column(db.String(100))
-  
-
-def create_app():
-  app = Flask(__name__)
-  app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///db.sqlite3"
-  
-  db.init_app(app)
-  
-  @app.route('/', methods = ['GET', 'POST'])
-  def index():
-    if request.method == "POST": 
-      uploaded_file = request.files["file-to-save"]
-      if not allowed_file(uploaded_file.filename):
-        return "FILE NOT ALLOWED! ONLY .TXT ALLOWED"
-
-      new_filename = uuid.uuid4().hex + uploaded_file.filname.rsplit('.',1)[1].lower()
-      bucket_name = "gepeto"
-      s3 = boto3.resource("s3")
-      s3.Bucket(bucket_name).upload_fileobj(uploaded_file, new_filename)
-      return redirect.url_for("index")
-      
-    files = File.query.all()
-    return render_template('index.html', files = files)
-
-  return app
-# def index():
-#   return render_template('index.html')
+from distutils.log import debug
+from fileinput import filename
+from flask import *
+from replit import db
+import os
 
 
-# app.run(host='0.0.0.0', port=81)
+
+app = Flask(__name__)
+
+@app.route('/')
+def main():
+  return render_template("index.html")
+
+
+@app.route('/success', methods=['POST'])
+def success():
+  if request.method == 'POST':
+    f = request.files['file']
+    f.save(os.path.join("user-uploads", f.filename))
+    return render_template("acknowledge.html", name=f.filename)
+
+@app.route('/submit-form', methods=['POST'])
+def submit_form():
+    model = request.form['model']
+    prompt = request.form['prompt']
+    temperature = request.form['temperature']
+    max_tokens = request.form['max_tokens']
+    top_p = request.form['top_p']
+    frequency_penalty = request.form['frequency_penalty']
+    presence_penalty = request.form['presence_penalty']
+    stop = request.form['stop']
+    n = request.form['n']
+    echo = request.form.get('echo')
+
+    # Here you can save the form data to a database, write to a file, or do any other processing you need.
+    # For example, you can print the data to the console:
+    
+
+    return render_template("fine-tune-submitted.html")
+
+if __name__ == '__main__':
+  app.run(host='0.0.0.0', port=81, debug=True)
