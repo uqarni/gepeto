@@ -1,21 +1,22 @@
 import pandas as pd
 import jsonlines
 import openai
+import os
 apikey = os.environ['openai']
 openai.api_key = apikey
 
 #input is a txt file and output a data frame with one column titled 'raw text'
-def raw_pr(file, cycles = 5):
+def raw_pr(file, topic = "a document", cycles = 1):
     import openai
     import pandas as pd
 
     #openai credentials
-    apikey = ""
+    apikey = os.environ['openai']
     openai.api_key = apikey
 
     #create header and footer. initalize body.
-    topic = "talking about your weaknesses in a job interview"
-    header = "The text below is an excerpt from a document on " + topic + ":\n\n\""
+    topic = topic
+    header = "The text below is an excerpt from " + topic + ":\n\n\""
     body = ""
     footer = "\"\n\nConvert the above text into prompt-completion pairs to train a chatbot in JSONL format:\n\n"
     format = "{\"prompt\": \"Question?\",\"completion\": Answer to question from above text. ENDEND\"}\n\nProvide 3 prompt-completion pairs in this format on consecutive lines."
@@ -91,7 +92,7 @@ def pr_uploader(list_of_strings):
             except ValueError:
                 pass
 
-    apikey = ""
+    apikey = os.environ['openai']
     openai.api_key = apikey
 
     #upload it to openai
@@ -106,7 +107,7 @@ def pr_uploader(list_of_strings):
 #input is openAI file ID and model, output is dictionary with keys: fine-tuning id and status
 def fine_tuner(file_id, model="davinci"):
     import openai
-    apikey = ""
+    apikey = os.environ['openai']
     openai.api_key = apikey
 
     send = openai.FineTune.create(
