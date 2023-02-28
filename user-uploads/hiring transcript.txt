@@ -1,0 +1,1860 @@
+00:00:08:12 - 00:00:08:18
+All right.
+
+00:00:08:18 - 00:00:12:15
+Today, we're and talk about unlockingcapacity in the recruiting process.
+
+00:00:12:20 - 00:00:14:04
+We're going to focus in on areas
+
+00:00:14:04 - 00:00:18:04
+like the hiring manager participation,the recruiting process overview.
+
+00:00:18:14 - 00:00:19:20
+And then also,we're going to talk a little bit
+
+00:00:19:20 - 00:00:29:06
+about what we define as success.
+
+00:00:29:22 - 00:00:33:05
+The four areas that we're reallygoing to dig into are the job alignment.
+
+00:00:33:05 - 00:00:35:20
+That means clearly definingthe requirements of the role,
+
+00:00:35:20 - 00:00:38:12
+making sure the role is alignedto our grading system.
+
+00:00:38:21 - 00:00:40:13
+Defining the three must haves
+
+00:00:40:13 - 00:00:43:11
+and the three would benice is an alignment to the competence.
+
+00:00:43:23 - 00:00:46:21
+We're also going to talk a little bitabout interview management, making sure
+
+00:00:46:21 - 00:00:49:20
+that you define your interview teamsat the front end of our process.
+
+00:00:50:03 - 00:00:53:21
+You communicate the focus areas for eachone of the interview participants.
+
+00:00:54:15 - 00:00:58:01
+We really manage to eliminate reschedulesas much as humanly possible
+
+00:00:58:04 - 00:01:00:17
+and we provide actionable feedbackto our recruiting team
+
+00:01:01:16 - 00:01:03:23
+in the candidatelifecycle aspect of what we really want
+
+00:01:03:23 - 00:01:06:14
+to target a two weeklifecycle as much as humanly possible.
+
+00:01:06:16 - 00:01:10:07
+Now we understand, like sometimes happens,that business has changing requirements,
+
+00:01:10:17 - 00:01:12:08
+but if we average two weeks
+
+00:01:12:08 - 00:01:15:12
+across to all of our interviews,we will be setting ourselves for success.
+
+00:01:16:02 - 00:01:20:03
+We want to have a for maximumfor loop interview process
+
+00:01:20:04 - 00:01:21:10
+to align to the two weeks.
+
+00:01:21:10 - 00:01:22:15
+And then at the end of the day
+
+00:01:22:15 - 00:01:25:10
+where we need to have more participantsin that interview process,
+
+00:01:25:15 - 00:01:27:19
+it may be necessaryto align them to panels
+
+00:01:27:24 - 00:01:30:04
+to keep it to a two week for loop maximum.
+
+00:01:31:03 - 00:01:33:10
+Also, we wanted to find ourselves,you know,
+
+00:01:33:10 - 00:01:38:10
+what is the 24 hour feedback loop, 48hours, calls to action and any other sales
+
+00:01:38:10 - 00:01:41:15
+that are mutually identified betweenrecruiting and its business partner.
+
+00:01:42:14 - 00:01:46:23
+Now we're going to talk a little bitabout the recruiting process itself.
+
+00:01:47:04 - 00:01:50:00
+In this workflow,you'll see that it starts at step one.
+
+00:01:50:08 - 00:01:52:23
+Step one really is the openingof the requisition.
+
+00:01:53:05 - 00:01:56:12
+Now, it's important for everyoneto understand that the head count process
+
+00:01:56:22 - 00:01:59:13
+is a processthat happens separate from recruiting.
+
+00:01:59:19 - 00:02:01:02
+That means you work with your h.r.
+
+00:02:01:02 - 00:02:05:11
+Business partner to identify headcountrequirements, whether it be backfill
+
+00:02:05:14 - 00:02:10:01
+for someone that has left the company netnew incremental ads for a new headcount
+
+00:02:10:01 - 00:02:13:17
+that wasn't originally forecastedand budgeted or the repurposing
+
+00:02:13:17 - 00:02:16:05
+of an additional existing roleinto another purpose.
+
+00:02:16:17 - 00:02:20:10
+In all cases that has to go throughan approval process that h.r.
+
+00:02:20:10 - 00:02:22:14
+Business partnerwill help you kick off that process.
+
+00:02:22:23 - 00:02:26:21
+You will then manage that processthrough finance, through your team
+
+00:02:26:21 - 00:02:33:05
+leaders approval and then ultimately upthrough the chief human resource officer,
+
+00:02:33:14 - 00:02:37:03
+the chief financial officerand the CEO of the company.
+
+00:02:37:06 - 00:02:38:04
+Now be prepared.
+
+00:02:38:04 - 00:02:40:22
+This process may take up to 2 to 4 weeks,
+
+00:02:41:13 - 00:02:44:07
+dependingon the specific circumstances of the role.
+
+00:02:44:20 - 00:02:45:16
+The reason why I'm calling
+
+00:02:45:16 - 00:02:46:08
+that out here is
+
+00:02:46:08 - 00:02:49:06
+I want to understand recruitingreally doesn't play any role on that.
+
+00:02:49:11 - 00:02:51:14
+That is a handle entirely between H.R.
+
+00:02:51:15 - 00:02:55:23
+finance and your your leadership teamfor your particular department.
+
+00:02:55:23 - 00:02:59:20
+Where we do play a role is oncefinance issues a rec ID number
+
+00:03:00:03 - 00:03:02:17
+that tells usthe rule is approved and funded.
+
+00:03:02:17 - 00:03:06:13
+Once that role is funded,that information is sent to the group
+
+00:03:06:13 - 00:03:09:15
+manager for talent acquisition,either technical or non-technical.
+
+00:03:10:08 - 00:03:14:00
+That person will open up the role in draftmode in our job site.
+
+00:03:14:07 - 00:03:17:05
+Talent acquisition system,and from there, notify
+
+00:03:17:05 - 00:03:19:14
+the recruiter that the role is readyfor engagement.
+
+00:03:20:07 - 00:03:22:22
+Once that engagement happenswith the hiring manager,
+
+00:03:22:22 - 00:03:26:00
+we'll go into a little bit more detailabout what that engagement really means.
+
+00:03:26:16 - 00:03:29:19
+The recruiter in the source will beginsourcing and selecting candidates
+
+00:03:29:19 - 00:03:31:08
+for our top of funnel process.
+
+00:03:31:08 - 00:03:35:01
+That top of funnel process is really justputting candidates that appear
+
+00:03:35:01 - 00:03:40:08
+to be qualified from our various sourceslike LinkedIn referrals, active applicants
+
+00:03:40:16 - 00:03:44:11
+into a queue to be screened, reviewedand screened by the recruiting team.
+
+00:03:44:22 - 00:03:48:18
+Once that recruiting team in steptwo has reviewed and potentially screened,
+
+00:03:49:00 - 00:03:52:05
+qualified candidateswill then move on to step three.
+
+00:03:52:11 - 00:03:56:23
+Step three is the interview process,and it is probably the most likely process
+
+00:03:56:23 - 00:03:59:00
+out of all five of these steps.
+
+00:03:59:00 - 00:04:03:17
+The interview process really needs to beconstrained to a roughly approximately
+
+00:04:03:17 - 00:04:07:24
+a two week window for corporate techand not higher tech hires.
+
+00:04:08:12 - 00:04:11:03
+The six week process for thefor the high volume
+
+00:04:11:03 - 00:04:14:23
+interview process reallyis more aligned to hiring of classes.
+
+00:04:14:23 - 00:04:16:21
+And you'll see some information thereon the right hand
+
+00:04:16:21 - 00:04:19:17
+side about those constraintsand those guidelines.
+
+00:04:20:02 - 00:04:23:04
+We're going to focus in on the corporatetech and non-tech process today.
+
+00:04:23:17 - 00:04:25:08
+There are four interview loops.
+
+00:04:25:08 - 00:04:28:08
+The first one is the recruiter screen,which happens in step two.
+
+00:04:28:14 - 00:04:30:23
+The second one is the hiring managerinterview.
+
+00:04:31:01 - 00:04:34:02
+The third one is the tech interview,assessment and craft.
+
+00:04:34:10 - 00:04:38:00
+Now, steps two and three are dynamicand they can happen in any order.
+
+00:04:38:00 - 00:04:41:01
+And we built that specificallyfor flexibility for the business
+
+00:04:41:10 - 00:04:43:16
+because every part of the businessmay have a different need.
+
+00:04:44:04 - 00:04:45:21
+The fourth step is the final round.
+
+00:04:45:21 - 00:04:48:24
+That final round may also bea single interview with an individual.
+
+00:04:48:24 - 00:04:51:00
+It may be a panel interviewwith a group of people.
+
+00:04:51:00 - 00:04:53:23
+It may be a craft or presentationassessment.
+
+00:04:53:23 - 00:04:57:12
+In any case, that is the final stepof the process prior to decision.
+
+00:04:58:03 - 00:05:00:23
+Now, when the interview process kicks off,
+
+00:05:00:24 - 00:05:04:17
+that recruiter sends the hiring managerthe candidate through job.
+
+00:05:04:21 - 00:05:07:02
+It will be a presentationmade through the system
+
+00:05:07:02 - 00:05:08:19
+that says with a link to the candidate
+
+00:05:08:19 - 00:05:11:00
+resume, saying,Please review this candidate.
+
+00:05:11:00 - 00:05:14:13
+You have access to the recruiter notesand feedback of why they feel like
+
+00:05:14:13 - 00:05:15:16
+this is a good candidate.
+
+00:05:15:16 - 00:05:19:08
+Because let's be honest, not everyone'sresume calls up all of their capabilities,
+
+00:05:19:18 - 00:05:22:15
+and not every person writesa great resume.
+
+00:05:22:17 - 00:05:25:18
+So be mindful that you should alsotake a look at your recruiter notes
+
+00:05:25:18 - 00:05:29:03
+as well in determining if this individualis ready to move forward for interview.
+
+00:05:29:22 - 00:05:32:23
+Once the hiring manager selectsa candidate for interview and advises
+
+00:05:32:23 - 00:05:34:13
+the interview teamthat they're entering someone
+
+00:05:34:13 - 00:05:37:21
+into process, the recruiterwill hand this off to the coordinator.
+
+00:05:38:10 - 00:05:42:09
+The coordination team will work closelywith the candidate, with the recruiter,
+
+00:05:42:15 - 00:05:43:24
+and with the interviewer
+
+00:05:43:24 - 00:05:47:02
+to ensure that we schedulethese interviews in a timely manner.
+
+00:05:47:10 - 00:05:51:11
+Again, our target is 48 hoursfrom the time of the request is initiated
+
+00:05:51:11 - 00:05:52:24
+to the completion of the interview.
+
+00:05:52:24 - 00:05:55:00
+As much as humanly possible.
+
+00:05:55:16 - 00:05:58:11
+All candidate transactions will happenwithin job site.
+
+00:05:58:11 - 00:06:00:09
+That means scheduling.
+
+00:06:00:09 - 00:06:01:22
+That means interview feedback.
+
+00:06:01:22 - 00:06:04:24
+That means presentation of the candidateand anything related to that.
+
+00:06:05:07 - 00:06:09:20
+We can use Slack to coordinate schedules,but no candidate information,
+
+00:06:09:20 - 00:06:12:22
+no interview feedback,nothing relative to that candidate's
+
+00:06:13:02 - 00:06:16:04
+individual candidacyshould be housed within Slack.
+
+00:06:16:05 - 00:06:18:06
+We should be using that within job site.
+
+00:06:18:06 - 00:06:21:07
+The employment and interviewprocess is a confidential process
+
+00:06:21:07 - 00:06:22:24
+and we need to havecertain controls in place.
+
+00:06:24:18 - 00:06:27:00
+Once thathiring manager conducts their interview,
+
+00:06:27:00 - 00:06:31:01
+then they will move on to the tech screenor vice versa, whichever comes first
+
+00:06:31:08 - 00:06:34:11
+as that candidate progressesthrough the various interview stages,
+
+00:06:34:11 - 00:06:38:16
+every interviewer has an interviewfocus area that they're assigned to.
+
+00:06:38:22 - 00:06:41:23
+They need to ask questionsrelative to that focus area
+
+00:06:41:23 - 00:06:43:20
+against the requirements of the role.
+
+00:06:43:20 - 00:06:47:17
+And then once that interview is completed,provide timely and actionable feedback
+
+00:06:47:17 - 00:06:52:03
+in the job site system for that recruiterand or source, or to review and act upon.
+
+00:06:52:03 - 00:06:55:07
+Especially if we are saying the candidateis not ready to move forward.
+
+00:06:55:14 - 00:06:59:14
+It's critical and imperativethat the recruiter understand why
+
+00:06:59:21 - 00:07:01:02
+they're not moving forward.
+
+00:07:01:02 - 00:07:05:06
+What were the gaps in capabilitiesor soft skills and how that recruiter
+
+00:07:05:07 - 00:07:07:22
+can best bridge those gapsin their next round of sourcing?
+
+00:07:08:13 - 00:07:11:22
+If the answer isthis candidate is successful and continues
+
+00:07:11:22 - 00:07:14:21
+to move through steps two or threeand then ultimately into four,
+
+00:07:15:02 - 00:07:16:19
+once they hit step four,
+
+00:07:16:19 - 00:07:20:12
+it's critical that the recruiter make surethat the hiring manager is keenly aware
+
+00:07:20:13 - 00:07:23:12
+of everything that will be necessaryto close this candidate
+
+00:07:23:21 - 00:07:27:16
+if that candidate successfully completestep four, which is the final round
+
+00:07:27:16 - 00:07:31:01
+and then ultimately the decisionfor offer, that means understanding
+
+00:07:31:02 - 00:07:34:23
+compensation, expectationaround location, working hours and so on.
+
+00:07:35:05 - 00:07:38:01
+If there's anythingthat falls outside our normal guardrails,
+
+00:07:38:01 - 00:07:40:14
+then it is imperativeupon that hiring manager
+
+00:07:40:19 - 00:07:43:23
+to potentially have an advancedconversation with their key team member
+
+00:07:44:04 - 00:07:46:13
+to determineif the team member would agree
+
+00:07:46:13 - 00:07:49:02
+to these exceptionsor these circumstances,
+
+00:07:49:10 - 00:07:52:13
+all things being equal,if this individual successfully completes
+
+00:07:52:13 - 00:07:55:23
+round four, it really doesn't do usany good to complete the final round.
+
+00:07:55:23 - 00:07:57:06
+If at the end of the day, no one's
+
+00:07:57:06 - 00:08:01:20
+going to approve the package necessaryto secure the candidate's signature, once
+
+00:08:01:20 - 00:08:04:20
+that Final Round interview is complete,there are two potential options.
+
+00:08:05:01 - 00:08:07:11
+One is to hire,and the other one is to not hire.
+
+00:08:07:18 - 00:08:10:07
+In both circumstances,we want to make sure that candidate
+
+00:08:10:07 - 00:08:11:20
+has a great experience.
+
+00:08:11:20 - 00:08:17:01
+If the decision is to not hire, butpotentially to hire in the future, perhaps
+
+00:08:17:01 - 00:08:19:20
+the candidate skill sets are not exactlywhere they need to be today.
+
+00:08:20:04 - 00:08:24:00
+Perhaps the individual needs some ramping,or at the end of the day,
+
+00:08:24:13 - 00:08:27:15
+we just don't have the appropriate rolefor them in all circumstances.
+
+00:08:27:15 - 00:08:30:21
+We want to make sure that when we releasethat candidate from the process,
+
+00:08:30:21 - 00:08:34:08
+we do it in a respectful,positive way for two reasons.
+
+00:08:34:08 - 00:08:36:16
+One, we may want them to come backin the process again
+
+00:08:36:16 - 00:08:40:04
+at some point in the future, andwe want them to be open to that idea, too.
+
+00:08:40:04 - 00:08:41:21
+We want them to be out theretalking about what
+
+00:08:41:21 - 00:08:44:01
+a great experiencethey have with legal Zoom.
+
+00:08:44:01 - 00:08:47:22
+For every positive experience a candidatewill tell anywhere from 2 to 3 people,
+
+00:08:48:09 - 00:08:51:11
+from every bad experience,a candidate have, studies have shown
+
+00:08:51:19 - 00:08:54:15
+they will share that informationwith 10 to 15 people.
+
+00:08:54:15 - 00:08:55:08
+So at the end of the day,
+
+00:08:55:08 - 00:08:58:07
+we want to protect our employer brandas much as humanly possible.
+
+00:08:58:21 - 00:09:01:08
+That's if we choose, not to move forwardthen individual.
+
+00:09:01:14 - 00:09:04:06
+Let's talk about when we want to moveforward with an individual.
+
+00:09:04:17 - 00:09:08:02
+When we choose to move forwardto offer the hiring manager, we'll work
+
+00:09:08:02 - 00:09:11:14
+with the recruiter in the group talentacquisition manager to build a package
+
+00:09:11:14 - 00:09:13:02
+that is attractive to the candidate
+
+00:09:13:02 - 00:09:15:03
+based on the informationthey have up to that point
+
+00:09:15:08 - 00:09:18:01
+and based on the guidelineswe have from our competence,
+
+00:09:18:12 - 00:09:21:15
+there are things like annual salary bonus,
+
+00:09:22:19 - 00:09:24:13
+restricted stock units and potential
+
+00:09:24:13 - 00:09:28:00
+signing bonuses are all tools that we haveavailable to us for consideration.
+
+00:09:28:11 - 00:09:30:20
+We will also be looking at thingslike internal equity,
+
+00:09:30:21 - 00:09:34:16
+making sure that the new hires alignto the internal bands of the organization
+
+00:09:34:16 - 00:09:36:20
+as well as to those outside compounds.
+
+00:09:37:11 - 00:09:40:17
+Once we make a decision to make an offer,we will
+
+00:09:40:17 - 00:09:42:18
+then move forward to the offer process.
+
+00:09:42:18 - 00:09:45:17
+Now that offer processhas both a transactional aspect to it
+
+00:09:45:17 - 00:09:50:10
+within our system and a communicativeaspect to it, from the hiring manager
+
+00:09:50:10 - 00:09:52:08
+to their team leader,especially where we need
+
+00:09:52:08 - 00:09:56:09
+to step outside those guardrails in orderto secure that person's employment here.
+
+00:09:56:10 - 00:09:56:18
+Legal.
+
+00:09:56:18 - 00:09:58:09
+So if for whatever reason
+
+00:09:58:09 - 00:10:01:02
+they are outside the patterns,they have some unique circumstances.
+
+00:10:01:02 - 00:10:04:07
+Whatever the case may be,it may be necessary to have that pre
+
+00:10:04:08 - 00:10:08:09
+conversation with your team leader prioror final round again to ensure
+
+00:10:08:09 - 00:10:11:00
+that they will approvethat should the Final Round be successful
+
+00:10:11:04 - 00:10:15:10
+once that final round is successful,reconfirming with that team leader
+
+00:10:15:15 - 00:10:18:16
+that at the end of the day they arewilling to sign off in these circumstances
+
+00:10:18:20 - 00:10:22:16
+so that as the offer entersthat transactional system of job right,
+
+00:10:22:22 - 00:10:26:18
+it doesn't get hung up in someone's inboxsimply because communication was lacking.
+
+00:10:26:18 - 00:10:28:17
+And they're trying to understandthe context.
+
+00:10:28:17 - 00:10:30:21
+Context should always be providedin advance
+
+00:10:31:02 - 00:10:33:18
+as well as during that approval processas well.
+
+00:10:34:08 - 00:10:37:18
+The ask here is that once we completethe very last interview
+
+00:10:37:18 - 00:10:40:11
+of that final round,whether that be a group panel,
+
+00:10:40:12 - 00:10:44:19
+whether that be two people interviews,that second person interview ends,
+
+00:10:44:19 - 00:10:49:06
+whatever that last step of thatfinal round looks like within 24 hours,
+
+00:10:49:06 - 00:10:53:01
+we need to make that decisionif we wish to hire or to not hire.
+
+00:10:53:17 - 00:10:56:20
+Once we make that decision,it is then communicated to the candidate
+
+00:10:56:20 - 00:10:58:08
+in advance through our system.
+
+00:10:58:08 - 00:11:03:06
+Now steps one, two, three and fourare all about the candidate experience.
+
+00:11:03:06 - 00:11:07:11
+How quickly and efficiently andeffectively we move through that process,
+
+00:11:07:11 - 00:11:12:04
+remembering that candidateslook at their interview experience
+
+00:11:12:04 - 00:11:15:16
+as an indicator,as a key leading indicator, actually,
+
+00:11:15:24 - 00:11:18:09
+of whatit will be like to work at that company.
+
+00:11:18:18 - 00:11:21:17
+So if we take forever to move that personthrough the process
+
+00:11:21:17 - 00:11:25:19
+or it's a disconnected process with poorcommunication and scheduling changes
+
+00:11:25:19 - 00:11:29:19
+and lots of interruptions in that process,people will look at that
+
+00:11:29:19 - 00:11:33:04
+as a reflection on what the day to daylife in this company looks like.
+
+00:11:33:13 - 00:11:35:12
+So we want to be mindful of that.
+
+00:11:35:12 - 00:11:37:00
+We also want to be mindful of that.
+
+00:11:37:00 - 00:11:39:13
+There's nothing goodabout hiring the wrong person fast.
+
+00:11:39:23 - 00:11:42:24
+So while we want to be deliberate,what we want to be thoughtful,
+
+00:11:42:24 - 00:11:46:17
+while we want to moveexpeditiously in our process,
+
+00:11:46:17 - 00:11:49:11
+we don't want to do it in a waythat sacrifices our quality
+
+00:11:49:15 - 00:11:52:10
+and potentially opens up the doorto hiring the wrong individual
+
+00:11:52:10 - 00:11:53:06
+to the wrong role.
+
+00:11:53:06 - 00:11:54:14
+It's not fair to the candidate,
+
+00:11:54:14 - 00:11:57:02
+and it's certainly not fair to the teamthat we'll be adding them to.
+
+00:11:57:12 - 00:12:00:04
+So let's keep that in mind as you movethrough the recruiting process.
+
+00:12:00:16 - 00:12:05:10
+Again, steps one, two, three and fourare within a two week window.
+
+00:12:05:10 - 00:12:07:19
+Step five The Onboarding Process.
+
+00:12:07:19 - 00:12:09:19
+Now we're going to spend a minutetalking about onboarding.
+
+00:12:09:20 - 00:12:13:01
+There is a transactional aspectto onboarding where the coordinator
+
+00:12:13:01 - 00:12:16:04
+puts the people in the background,they send them all the onboarding
+
+00:12:16:04 - 00:12:17:15
+information, the documentation
+
+00:12:17:15 - 00:12:21:10
+to complete human resources, sharesthem into payroll to our ADP system.
+
+00:12:21:18 - 00:12:24:07
+All that information is completeon a transactional basis.
+
+00:12:24:18 - 00:12:27:19
+The part of onboarding that'sreally not called out specifically here,
+
+00:12:27:19 - 00:12:31:13
+but is just as importantand maybe in some cases more important is
+
+00:12:31:14 - 00:12:34:11
+what happens that person on dayone and beyond.
+
+00:12:34:18 - 00:12:36:12
+How do they integrate into the team?
+
+00:12:36:12 - 00:12:38:04
+How is that information shared with him?
+
+00:12:38:04 - 00:12:41:08
+Are they given the tools and resourcesnecessary to get their job done?
+
+00:12:41:15 - 00:12:45:03
+Are they being oriented into whattheir job is and what the definitions
+
+00:12:45:03 - 00:12:48:02
+of successfullook like over the next 3690 days?
+
+00:12:48:12 - 00:12:51:23
+This is where we really encouragethe hiring manager and the team
+
+00:12:51:23 - 00:12:55:13
+that they're integrating intoto put some thought together behind what
+
+00:12:55:14 - 00:12:59:17
+that first, first 90 days experiencewill look like for that new hire.
+
+00:13:00:01 - 00:13:00:16
+It really does.
+
+00:13:00:16 - 00:13:04:02
+There's no good to move them throughsteps, one through four in a very positive
+
+00:13:05:13 - 00:13:08:24
+and deliberate manner, only for themto get to onboarding
+
+00:13:09:00 - 00:13:12:15
+and potentially second guess their choiceto join the organization.
+
+00:13:12:15 - 00:13:15:22
+If they don't have a great onboardingexperience into the team integration.
+
+00:13:17:07 - 00:13:20:13
+So now we've talked about the processas an overview perspective.
+
+00:13:20:19 - 00:13:24:03
+Let's go into a little bit more detailabout two of the most important stages.
+
+00:13:24:21 - 00:13:25:19
+The first stage is
+
+00:13:25:19 - 00:13:28:17
+actually opening up the recand this is the recruiter engagement.
+
+00:13:28:23 - 00:13:32:14
+When the group talent acquisition manageropens up the requisition
+
+00:13:32:14 - 00:13:36:09
+that they receive from finance,they will put this into draft mode
+
+00:13:36:09 - 00:13:39:05
+and share this over to the recruiterthat will be responsible
+
+00:13:39:05 - 00:13:43:08
+for the recruiting and potentiallya source of the recruiter will receive
+
+00:13:43:08 - 00:13:47:07
+that information and schedule engagementwith the hiring manager within 48 hours.
+
+00:13:47:14 - 00:13:51:07
+It's critical that that engagement happenquickly and effectively
+
+00:13:51:07 - 00:13:55:08
+because the recruiting on that requisitionwill not begin
+
+00:13:55:08 - 00:13:57:10
+until that engagement is complete.
+
+00:13:57:10 - 00:13:59:03
+Now, let's be realistic.
+
+00:13:59:03 - 00:14:02:13
+If this is the fifth software engineerthat we've hired over the last 90 days,
+
+00:14:02:19 - 00:14:05:12
+there probably won't be a whole lotbehind that engagement
+
+00:14:05:13 - 00:14:07:13
+that is different from the previous four.
+
+00:14:07:13 - 00:14:10:11
+However, there may be some uniquedifferences that we need to be aware of.
+
+00:14:10:11 - 00:14:12:04
+Perhaps there's a unique skill set
+
+00:14:12:04 - 00:14:14:22
+they need to bring to the tablefor this one particular software role.
+
+00:14:15:05 - 00:14:16:23
+Perhaps there are some experiences
+
+00:14:16:23 - 00:14:19:05
+that they need to havethat will make them more successful.
+
+00:14:19:11 - 00:14:22:00
+Whatever that case is,we need to have that engagement.
+
+00:14:22:00 - 00:14:24:03
+And it's not just to define the role.
+
+00:14:24:03 - 00:14:25:16
+It's also to help define
+
+00:14:25:16 - 00:14:28:18
+who the interview team isthat will participate in this process.
+
+00:14:29:07 - 00:14:33:15
+So once that interview,once that engagement is established,
+
+00:14:33:15 - 00:14:36:14
+the hiring manager will determinethe requirements of the role,
+
+00:14:37:13 - 00:14:39:06
+ensure that the job description
+
+00:14:39:06 - 00:14:43:00
+provided aligns to our leveling system,which then aligns to our competence.
+
+00:14:43:00 - 00:14:46:19
+So what level of communication,of independence, of expertize
+
+00:14:46:20 - 00:14:51:09
+should we expect that a grade 11,a grade 12, a grade 13 and a grade 14?
+
+00:14:51:15 - 00:14:53:16
+Because those degrees of expertize
+
+00:14:53:17 - 00:14:55:20
+will be differentbased on that particular grade.
+
+00:14:56:05 - 00:14:57:04
+That job description
+
+00:14:57:04 - 00:15:00:06
+should align to the grade becausethe grade aligns to the competence.
+
+00:15:01:12 - 00:15:04:13
+You also make sure that the three musthaves are listed
+
+00:15:04:14 - 00:15:08:04
+in order of importance under the skillsection and the three would be nice.
+
+00:15:08:06 - 00:15:10:23
+Which follow, which are the thingsthat would be nice to have,
+
+00:15:11:05 - 00:15:13:07
+but ultimatelyare not absolutely required?
+
+00:15:13:07 - 00:15:15:24
+Or maybe one of the three would benice as would offset.
+
+00:15:15:24 - 00:15:20:05
+Perhaps one missing must havein all cases, anything more than six
+
+00:15:20:05 - 00:15:20:22
+requirements.
+
+00:15:20:22 - 00:15:22:23
+You're starting to createwhat we call a kitchen sink
+
+00:15:23:07 - 00:15:27:00
+and that's probably not an ideal scenariowhen sourcing for candidates,
+
+00:15:27:00 - 00:15:29:12
+because at the end of the day,most people can only do three things
+
+00:15:29:13 - 00:15:33:08
+exceptionally well and three thingsperhaps somewhat well.
+
+00:15:33:08 - 00:15:35:16
+And that'sbased on a number of different studies.
+
+00:15:36:06 - 00:15:39:24
+When you look at your interview teams,you want to make sure your interview teams
+
+00:15:39:24 - 00:15:41:16
+are clearly defined at the front end.
+
+00:15:41:16 - 00:15:44:10
+People know they're participatingon your interview team.
+
+00:15:44:20 - 00:15:47:09
+They arethey have the skill sets necessary to vet
+
+00:15:47:10 - 00:15:49:05
+the capabilities of a candidate.
+
+00:15:49:05 - 00:15:50:15
+And you've clearly defined
+
+00:15:50:15 - 00:15:53:21
+what it is you want them to look forin that interview process.
+
+00:15:54:10 - 00:15:58:08
+The interviews should also be balancedacross your team.
+
+00:15:58:08 - 00:16:00:02
+So if you have a team of ten people,
+
+00:16:00:02 - 00:16:02:07
+only two people are doingthe bulk of the interviews.
+
+00:16:02:16 - 00:16:04:10
+Let's understand why that's happening.
+
+00:16:04:10 - 00:16:07:08
+If we need to train more peopleon your team to be interviewers,
+
+00:16:07:12 - 00:16:10:08
+let's get them trained and ramped upso they can start participating.
+
+00:16:10:17 - 00:16:13:01
+Most people find the interviewingto be pleasurable.
+
+00:16:13:01 - 00:16:17:01
+We don't want this to be perceivedas a burden by your team.
+
+00:16:17:08 - 00:16:18:04
+At the end of the day,
+
+00:16:18:04 - 00:16:22:16
+building out your team and building outa bench of strong interviewers
+
+00:16:22:23 - 00:16:26:08
+will help make your recruiting processmore efficient and more effective.
+
+00:16:26:21 - 00:16:27:23
+We also want to drive
+
+00:16:27:23 - 00:16:30:23
+the timeliness of the processand really at the end of the day,
+
+00:16:30:23 - 00:16:34:13
+it is the hiring managers responsibilityin partnership with the recruiter
+
+00:16:34:21 - 00:16:38:21
+to make sure that that process movesdeliberately and efficiently.
+
+00:16:39:03 - 00:16:42:01
+Again, I want to reinforce the factthere is nothing good about hiring
+
+00:16:42:01 - 00:16:43:14
+the wrong person fast.
+
+00:16:43:14 - 00:16:46:05
+So moving fastjust for the sake of moving fast,
+
+00:16:46:05 - 00:16:49:09
+but not hiring the rightperson is really counterproductive.
+
+00:16:49:15 - 00:16:53:07
+When you have the right person or someoneyou think is the right person in process.
+
+00:16:53:07 - 00:16:56:10
+Let's be deliberate, let's be concise,and let's get that person
+
+00:16:56:10 - 00:17:01:05
+across the finish lineas quick as humanly possible.
+
+00:17:01:05 - 00:17:03:15
+Let's talk a little bit about interviewsin detail.
+
+00:17:03:24 - 00:17:06:16
+If you see the top left hand cornerthere, you'll see the participants
+
+00:17:06:16 - 00:17:08:08
+in this process are the recruiters,
+
+00:17:08:08 - 00:17:12:07
+the coordinators, the hiring managers,and then ultimately the interview team.
+
+00:17:12:23 - 00:17:15:09
+So the recruiters responsibilityhere is to coordinate
+
+00:17:15:09 - 00:17:18:14
+with the hiring team, the coordinators,and the candidate for all the interviews
+
+00:17:18:20 - 00:17:20:17
+by means of coordinatingand kind of being that
+
+00:17:20:17 - 00:17:23:16
+single hub of informationfor scheduling capabilities.
+
+00:17:24:08 - 00:17:28:05
+Challenges around communication skillsmean if they have special accommodations,
+
+00:17:28:05 - 00:17:30:17
+they requireas part of the interview process,
+
+00:17:30:17 - 00:17:33:17
+anything that's necessaryto facilitate those interviews.
+
+00:17:33:24 - 00:17:34:24
+The recruiter will work
+
+00:17:34:24 - 00:17:37:17
+with all these team membersto make sure that happens correctly.
+
+00:17:38:03 - 00:17:41:17
+The hiring manager ultimately will onlyinterview process with that recruiter.
+
+00:17:41:17 - 00:17:43:19
+That means that they're going to reinforce
+
+00:17:43:19 - 00:17:45:22
+the assigned areasfor their interview team,
+
+00:17:45:22 - 00:17:48:10
+and they're going to make surethat interview team shows up prepared
+
+00:17:48:10 - 00:17:49:16
+and on time.
+
+00:17:49:16 - 00:17:53:11
+It's critical that we take a few minutesprior to every interview review.
+
+00:17:53:11 - 00:17:55:24
+The resume is documentssome potential questions
+
+00:17:55:24 - 00:18:00:03
+we might want to ask about capabilitiesagainst that required skill sets,
+
+00:18:00:09 - 00:18:03:09
+and then ultimately familiarize yourselfwith that person's
+
+00:18:03:09 - 00:18:06:01
+background so that your interviewquestions are thoughtful.
+
+00:18:06:12 - 00:18:09:16
+They probe, they look for outcomes.
+
+00:18:09:16 - 00:18:13:10
+They look for measured successesthat ultimately afford you the opportunity
+
+00:18:13:10 - 00:18:14:00
+to determine
+
+00:18:14:00 - 00:18:17:01
+if this person has the potentialto be the right fit for the organization.
+
+00:18:17:13 - 00:18:20:19
+I can't emphasize enoughthat at the end of the day,
+
+00:18:21:06 - 00:18:24:20
+interviewing the personagainst the role and capabilities
+
+00:18:24:20 - 00:18:26:10
+and the skill sets is critical.
+
+00:18:26:10 - 00:18:28:18
+You're not interviewing themand comparing them to another person
+
+00:18:28:18 - 00:18:30:07
+that's already here at the company.
+
+00:18:30:07 - 00:18:33:03
+You're making your decision based onhow does their answers,
+
+00:18:33:03 - 00:18:36:13
+how does their resume alignto the documented skill sets necessary
+
+00:18:36:13 - 00:18:41:10
+on the job description,we want to make sure that the feedback
+
+00:18:41:10 - 00:18:43:23
+is providedwithin 24 hours of the final interview.
+
+00:18:44:10 - 00:18:47:10
+Sooner than that would be ideal,but at the very least, 24 hours
+
+00:18:47:10 - 00:18:51:03
+and it's documentedand it's actionable in job by actionable
+
+00:18:51:03 - 00:18:54:11
+feedback meansif the answer is no, the recruiter
+
+00:18:54:11 - 00:18:57:05
+and source or have a very clearunderstanding of why you're saying no
+
+00:18:57:11 - 00:19:00:09
+so they can pivot on their sourcingif the answer is yes.
+
+00:19:00:09 - 00:19:02:12
+But with some qualificationor potential gaps
+
+00:19:02:12 - 00:19:05:10
+that we need to be clear on as a teamthat we'd have to bridge them through.
+
+00:19:05:16 - 00:19:08:20
+Let's be honest and transparent about thatso that subsequent interviewers
+
+00:19:08:20 - 00:19:14:10
+might be able to dig into thata little bit deeper.
+
+00:19:14:10 - 00:19:15:06
+You also want to make sure we're
+
+00:19:15:06 - 00:19:19:00
+communicating working hours and alignmentto any West Coast team operations.
+
+00:19:19:00 - 00:19:22:24
+As you know, we are a West Coast company,but we are actually hiring nationwide.
+
+00:19:23:10 - 00:19:27:02
+And as we hire nationwide, we want tomake sure that people understand
+
+00:19:27:03 - 00:19:29:14
+if there is going to be any requirementsfor them to be available
+
+00:19:29:14 - 00:19:30:15
+during West Coast hours.
+
+00:19:30:15 - 00:19:34:21
+And if so, what that expectation lookslike over the number of days and so on
+
+00:19:35:22 - 00:19:37:10
+for the interview teams themselves,
+
+00:19:37:10 - 00:19:39:10
+these are the people otherthan the hiring managers.
+
+00:19:39:10 - 00:19:43:10
+Please show up on time and be preparedif you need to reschedule.
+
+00:19:43:10 - 00:19:45:18
+Do not simply decline the calendar.
+
+00:19:45:18 - 00:19:47:14
+Invite in outlook.
+
+00:19:47:14 - 00:19:51:13
+We ask that you get togetheryour hiring manager, the recruiter
+
+00:19:51:20 - 00:19:56:05
+and if possible the coordinatorinto a Slack channel and communicate
+
+00:19:56:05 - 00:19:58:20
+your challenge of why you won't be ableto attend that interview.
+
+00:19:58:20 - 00:20:01:01
+And the reason we askthat is because at the end of the day,
+
+00:20:01:01 - 00:20:04:08
+the recruiting and coordinating teamhas no idea what anyone else's
+
+00:20:04:08 - 00:20:06:12
+availabilitylooks like beyond their calendar.
+
+00:20:06:12 - 00:20:09:18
+We don't know who has any deliverablesnecessary in the next couple of days.
+
+00:20:09:23 - 00:20:14:18
+We don't know what people's capabilitieslook like from a deliverable
+
+00:20:14:19 - 00:20:17:10
+and a calendaring aspectother than what we see on calendars.
+
+00:20:17:17 - 00:20:18:09
+Let's be honest.
+
+00:20:18:09 - 00:20:20:07
+Some people block their calendars,
+
+00:20:20:07 - 00:20:21:11
+whether they have interviews
+
+00:20:21:11 - 00:20:24:04
+or appointments or interviews scheduledbecause they need that time
+
+00:20:24:04 - 00:20:25:06
+to work on things.
+
+00:20:25:06 - 00:20:27:03
+There's a lot of variablesthat come into play
+
+00:20:27:03 - 00:20:31:11
+that create more problems than they solveby simply declining the interview
+
+00:20:31:11 - 00:20:35:09
+without having a thoughtful engagementfor 5 minutes, a conversation in Slack,
+
+00:20:35:09 - 00:20:39:11
+or on a slight call to solve the solutionand get a substitute in place
+
+00:20:39:11 - 00:20:46:00
+quickly and effectivelyso that candidate experience is preserved.
+
+00:20:46:00 - 00:20:49:09
+We want to sell that candidateevery step of the way, and that means,
+
+00:20:49:14 - 00:20:51:06
+especially if you havea qualified candidate
+
+00:20:51:06 - 00:20:53:15
+in front of you, that you knowhas a high probability of success.
+
+00:20:53:15 - 00:20:56:01
+It's not just about figuring outwhat they can do for us.
+
+00:20:56:01 - 00:20:58:17
+It's about explaining to themwhat we can do for them as a company,
+
+00:20:59:01 - 00:21:01:21
+as a team, the interesting technologiesthey'll get to work on,
+
+00:21:01:21 - 00:21:04:15
+how they're going to helpgrow legal, zoom to the next level.
+
+00:21:04:15 - 00:21:07:12
+All the things that you as an interviewerwould find attractive
+
+00:21:07:12 - 00:21:09:15
+if you were interviewing for a roleat another company.
+
+00:21:09:21 - 00:21:14:07
+Remember, candidates still have optionsand choices, especially top level talent.
+
+00:21:14:17 - 00:21:17:12
+And to join an organizationlike Legal Zone,
+
+00:21:17:16 - 00:21:20:12
+they have to understandwhat sets us apart from everyone else
+
+00:21:20:12 - 00:21:23:22
+that's potentially pursuingmost candidates still today
+
+00:21:24:00 - 00:21:27:13
+have on average two or three interviewsgoing concurrently at any given time.
+
+00:21:29:07 - 00:21:30:15
+Once you saw that candidate
+
+00:21:30:15 - 00:21:34:06
+and once you provide your feedbackin the system, we want to make sure
+
+00:21:34:06 - 00:21:39:14
+that the hiring manageris keenly aware of your thought process
+
+00:21:39:15 - 00:21:42:01
+and your potential rampingand what that would take to ramp
+
+00:21:42:01 - 00:21:43:24
+that individual to the next level.
+
+00:21:43:24 - 00:21:46:03
+Once you define thosewith the hiring manager,
+
+00:21:46:03 - 00:21:47:19
+we want to make sure that we approach
+
+00:21:47:19 - 00:21:51:00
+all our interviews consistentlyin an non-biased manner.
+
+00:21:51:08 - 00:21:54:09
+That means, again,aligning that individual's resume.
+
+00:21:54:11 - 00:21:58:13
+The questions that you asked inthe interview are aligned to skills
+
+00:21:58:13 - 00:22:01:01
+and capabilitiesagainst the requirements of the role,
+
+00:22:01:07 - 00:22:03:21
+not matching themagainst another individual.
+
+00:22:03:21 - 00:22:06:03
+If you have any questions on this,please work with your recruiter.
+
+00:22:06:09 - 00:22:07:23
+They'll help guide youthrough that process.
+
+00:22:07:23 - 00:22:10:07
+We will also be rolling out interviewtraining companywide
+
+00:22:10:14 - 00:22:11:16
+over the next several months.
+
+00:22:11:16 - 00:22:13:05
+So if for whatever reason
+
+00:22:13:05 - 00:22:15:16
+you don't participatein that first round of training,
+
+00:22:15:16 - 00:22:17:06
+let the recruiter knowthat you're interested.
+
+00:22:17:06 - 00:22:21:14
+We'll make sure you we get your scheduleinto the next round of training.
+
+00:22:21:14 - 00:22:23:16
+Let's talk a little bitabout our recruiting model now.
+
+00:22:23:16 - 00:22:26:20
+If you look at the typical bell shapedcurve that reside with most companies,
+
+00:22:26:20 - 00:22:30:12
+you have about 25% of your populationthat's entry level,
+
+00:22:30:12 - 00:22:33:17
+you have about 25% of your populationthat's very senior.
+
+00:22:33:24 - 00:22:36:18
+And the middle or the higherpart of that bell shaped curve or what
+
+00:22:36:18 - 00:22:40:04
+we call your career level, is that youryour staff and your senior staff level
+
+00:22:40:04 - 00:22:44:02
+roles, much like the existing populationand most large companies.
+
+00:22:44:02 - 00:22:46:02
+This is how we should approach our hiring.
+
+00:22:46:02 - 00:22:49:00
+And I'll tell you a little bit why,if you look at the left hand side,
+
+00:22:49:00 - 00:22:53:00
+they're at 25% hiring goalsfor growth model.
+
+00:22:53:00 - 00:22:55:18
+The growth model is capabilityof 0 to 25%.
+
+00:22:56:00 - 00:22:58:05
+These are typically entry levelright out of college
+
+00:22:58:05 - 00:23:00:03
+or maybe out of collegewith a year of experience.
+
+00:23:00:03 - 00:23:03:23
+So some intern background, this,they have a shorter arc to hire.
+
+00:23:03:23 - 00:23:05:14
+I mean, they hire more quickly.
+
+00:23:06:15 - 00:23:08:12
+This helps us build an internal pipeline,
+
+00:23:08:12 - 00:23:12:19
+especially for more challenging rolesto fill in the open market.
+
+00:23:12:19 - 00:23:14:13
+So where we have specific roles
+
+00:23:14:13 - 00:23:18:06
+that we need as a companythat are in high demand everywhere else,
+
+00:23:18:15 - 00:23:21:10
+we are more effectivein building an internal pipeline
+
+00:23:21:10 - 00:23:24:18
+from that entry level to that mid-levelthan we are going to market.
+
+00:23:24:18 - 00:23:26:22
+Every timewe need to hire a mid-level individual,
+
+00:23:27:23 - 00:23:30:15
+they are more open to learningbecause they don't have as many years
+
+00:23:30:15 - 00:23:34:03
+of experience and don't have as manyas much background on the companies
+
+00:23:34:03 - 00:23:37:02
+to synthesize and integrate intoand this way of doing things.
+
+00:23:37:11 - 00:23:40:23
+And quite frankly, they come at a betteralignment to our cost model.
+
+00:23:41:16 - 00:23:43:02
+At the other end of the spectrum,
+
+00:23:43:02 - 00:23:45:16
+the other 25%are what we call the buy model.
+
+00:23:45:16 - 00:23:49:23
+Now there are times where you do need thatperson to walk through the door on day
+
+00:23:49:23 - 00:23:53:24
+one to be nearly 100% of what you needand start contributing it on day
+
+00:23:54:00 - 00:23:57:16
+one and start relievingpain as quickly as humanly possible.
+
+00:23:58:09 - 00:24:01:11
+The thing to remember hereis that these generally are advanced
+
+00:24:01:11 - 00:24:03:00
+career level individuals.
+
+00:24:03:00 - 00:24:05:04
+They typically have a longer arc to hire.
+
+00:24:05:04 - 00:24:07:08
+We're talking somewherenorth of four months.
+
+00:24:08:00 - 00:24:09:16
+They can hit the ground running.
+
+00:24:09:16 - 00:24:10:23
+But at the end of the day,
+
+00:24:11:22 - 00:24:12:18
+given their senior
+
+00:24:12:18 - 00:24:16:05
+level, they are less proneto making quick decisions or moving more,
+
+00:24:16:05 - 00:24:19:02
+more frequently than someonethat's at a grow or rent model.
+
+00:24:19:10 - 00:24:22:03
+And quite frankly, they know their worthand will come at a premium.
+
+00:24:22:11 - 00:24:25:04
+So as you look at the challengesthat you're trying to solve
+
+00:24:25:04 - 00:24:28:15
+with your business, understandwhich one of these potential models
+
+00:24:29:01 - 00:24:31:17
+has the ability to serve your needs.
+
+00:24:32:24 - 00:24:35:22
+The model in the middle calledthe ramp model, these are individuals
+
+00:24:35:22 - 00:24:40:04
+that bring 50 to 75% of what you'relooking for from a capability perspective,
+
+00:24:40:14 - 00:24:43:13
+these tend to be mid to mid senior levelcareers.
+
+00:24:43:13 - 00:24:46:09
+Those staffs,the senior senior staff level roles
+
+00:24:46:20 - 00:24:51:08
+there is a moderate arc to hire anywherefrom, say, 2 to 3 months, sometimes
+
+00:24:51:09 - 00:24:53:22
+four months, just kind of dependingon the nature of the role.
+
+00:24:55:08 - 00:24:56:07
+But the question you have to
+
+00:24:56:07 - 00:25:00:18
+ask yourself is, in the timeit takes me to hire this 100% person
+
+00:25:00:18 - 00:25:04:06
+at four plus months, maybe six months,depending on the scenario,
+
+00:25:04:21 - 00:25:08:16
+is it more effective to bring in someonethat has somewhere around 75%
+
+00:25:08:16 - 00:25:12:06
+of what I need so they can start relievingsome of the pain for the team today
+
+00:25:12:13 - 00:25:16:10
+while we ramp them through to 100%in a shorter period of time than it does
+
+00:25:16:10 - 00:25:19:06
+to take to go to marketand buy a buy model person.
+
+00:25:19:17 - 00:25:22:20
+They will also come ina more realistic comp expectation.
+
+00:25:23:05 - 00:25:26:19
+However, at the end of the day, the choicechoices belongs to the business.
+
+00:25:26:19 - 00:25:29:01
+We're not telling you to sacrificequality.
+
+00:25:29:01 - 00:25:31:11
+We're not telling you to compromiseon capabilities.
+
+00:25:31:22 - 00:25:35:01
+What we are asking you to dois be realistic about your needs.
+
+00:25:35:01 - 00:25:38:20
+Would we all like to hire thatperfect person at the 100% capability?
+
+00:25:39:03 - 00:25:40:06
+Absolutely.
+
+00:25:40:06 - 00:25:43:06
+Can we always afford thator can we always wait for that person
+
+00:25:43:06 - 00:25:45:12
+long enough,that person to walk through the door?
+
+00:25:45:12 - 00:25:47:16
+The answer tothat is not always yes. Right.
+
+00:25:47:16 - 00:25:48:10
+So that's what we have to
+
+00:25:48:10 - 00:25:52:06
+look at that ramp model to understand,does this person have the aptitude
+
+00:25:52:06 - 00:25:56:07
+and attitude to learn in bridge and rampto 100% in a reasonable amount of time
+
+00:25:56:13 - 00:26:00:11
+faster and more effectively and more costeffectively than it would be to go buy
+
+00:26:00:11 - 00:26:01:03
+that person.
+
+00:26:01:03 - 00:26:02:19
+Only you as the service owner
+
+00:26:02:19 - 00:26:05:00
+and the business ownercan answer that question.
+
+00:26:05:00 - 00:26:07:02
+And your recruiteris going to ask you to consider this.
+
+00:26:07:02 - 00:26:11:23
+Every time we look at a highly highpotential individual.
+
+00:26:11:23 - 00:26:13:20
+All right.Let's talk a little bit about surveys.
+
+00:26:14:23 - 00:26:17:01
+The only way this two week model worksfor us
+
+00:26:17:01 - 00:26:20:01
+is if we have some more defined vesselswithin our process.
+
+00:26:20:01 - 00:26:23:10
+So if we're looking at an averageof two weeks across our entire process,
+
+00:26:23:21 - 00:26:28:09
+when we look at requests for informationrelated to the roles, clarifications,
+
+00:26:28:09 - 00:26:33:03
+updates to job description, resumereviews, interview feedback, obviously,
+
+00:26:33:03 - 00:26:38:05
+or calibrations on recruiting the askthere is a maximum 24 hour feedback loop.
+
+00:26:38:19 - 00:26:42:00
+Ideally, a shorter loop would be perfect,but where that's not
+
+00:26:42:00 - 00:26:44:16
+possible,24 hours should kind of be our benchmark.
+
+00:26:45:05 - 00:26:48:04
+The calls to action, let's be honest,will mostly be interviews.
+
+00:26:48:04 - 00:26:49:23
+But there will be timeswhere we need your help.
+
+00:26:49:23 - 00:26:53:10
+Closing a candidate,or we need you to discuss a
+
+00:26:54:15 - 00:26:59:17
+above mid-point or a potential comppackage challenge with a team leader,
+
+00:27:00:02 - 00:27:02:12
+whatever that action is for you to do,
+
+00:27:02:20 - 00:27:06:08
+we need you to try to completethat within 48 hours of the ask.
+
+00:27:06:08 - 00:27:08:08
+Now, we also understand as this happens,
+
+00:27:08:08 - 00:27:10:08
+we also understandwe live in the real world.
+
+00:27:10:08 - 00:27:12:15
+There are going to be timeswhere these assays are.
+
+00:27:12:15 - 00:27:16:15
+We exceed these isolatesbecause of the other business
+
+00:27:16:15 - 00:27:18:22
+we have to take care ofand we understand that will happen.
+
+00:27:19:03 - 00:27:21:14
+There are also timesthat we will beat these assays
+
+00:27:21:24 - 00:27:24:17
+much, much shorter windowsbecause we have the ability to do that.
+
+00:27:24:17 - 00:27:28:12
+What we're asking for all of us to dois to track towards an average across
+
+00:27:28:13 - 00:27:31:22
+all our interviews, feedbackloops of an average of 24 hours,
+
+00:27:32:16 - 00:27:36:08
+calls to action, an average of 48 hours,and then obviously a candidate
+
+00:27:36:08 - 00:27:40:17
+life cycle on average of around two weeksfor principal level roles and below.
+
+00:27:41:07 - 00:27:41:18
+Okay.
+
+00:27:43:03 - 00:27:45:07
+So let'stalk a little bit about the recap here.
+
+00:27:45:07 - 00:27:47:18
+So again, we touched on a little bitabout job alignment.
+
+00:27:47:18 - 00:27:50:04
+It's criticalthat you understand what you're hiring,
+
+00:27:50:11 - 00:27:53:08
+the level that they should be,that your job description is written
+
+00:27:53:08 - 00:27:55:23
+to that level,that that level aligns with the competence
+
+00:27:56:10 - 00:27:59:02
+and the part that I didn't call out here,but it's really important is
+
+00:27:59:02 - 00:28:01:20
+who in your organizationis ready for promotion?
+
+00:28:02:06 - 00:28:05:16
+So as you're looking at what you needand aligning to what you need,
+
+00:28:05:16 - 00:28:07:18
+let's make sure we look at team membersthat are ready
+
+00:28:08:00 - 00:28:11:12
+to rise to those challenges,maybe be stretched into those roles,
+
+00:28:11:16 - 00:28:12:10
+and then determine
+
+00:28:12:10 - 00:28:15:12
+what a potential backfill will look likefrom a promotion perspective.
+
+00:28:16:04 - 00:28:18:20
+We want to closely manageour interview process.
+
+00:28:18:20 - 00:28:19:14
+We want to make sure
+
+00:28:19:14 - 00:28:22:12
+that the interview teams are definedand aware that they're participating.
+
+00:28:22:20 - 00:28:25:24
+We want to make sure that we communicatetheir focus areas and that
+
+00:28:26:13 - 00:28:29:20
+they understand the value propositionthey're bringing to this team
+
+00:28:29:20 - 00:28:32:17
+and to the hiring managerwith the areas that they're focusing on.
+
+00:28:33:01 - 00:28:36:15
+We want to minimize and eliminatereschedules as much as humanly possible.
+
+00:28:36:15 - 00:28:38:05
+And where that's not possible,
+
+00:28:38:05 - 00:28:41:12
+gather everyone togetherSlack channel to communicate alternatives.
+
+00:28:41:19 - 00:28:45:10
+And we want to make sure that the feedbackthat derives from this interview process
+
+00:28:45:10 - 00:28:49:04
+is actionable and measurable so thatthe recruiting team can take that feedback
+
+00:28:49:09 - 00:28:52:08
+and decide how best to builda new pipeline of candidates
+
+00:28:52:08 - 00:28:55:14
+or better screen candidatesalready in process, or ultimately move
+
+00:28:55:14 - 00:28:59:12
+this person forward with potential cautionareas for the next round of interviewers
+
+00:28:59:16 - 00:29:04:08
+to potentially dig in to as they areas they participate in this process.
+
+00:29:04:24 - 00:29:06:00
+We want to keep that candidate
+
+00:29:06:00 - 00:29:09:01
+lifecycle to an average of two weeksand a maximum of four loops.
+
+00:29:09:01 - 00:29:11:14
+And where we have more peopleparticipating
+
+00:29:11:14 - 00:29:14:14
+than we have loops understanding,we may need to group those people
+
+00:29:14:14 - 00:29:17:16
+together on panelsto preserve that candidate experience.
+
+00:29:17:22 - 00:29:20:17
+Let's be honest, we've had candidatesdrop out of process here
+
+00:29:20:17 - 00:29:22:11
+at Legal Zoombecause at the end of the day,
+
+00:29:22:11 - 00:29:24:15
+they were able to enter processwith another company,
+
+00:29:25:12 - 00:29:28:12
+thoughtfully complete that processwith the other company, receive an offer,
+
+00:29:28:12 - 00:29:30:00
+make a decision in the same time frame
+
+00:29:30:00 - 00:29:33:06
+that it took us to get to step halfwaythrough step three of our process.
+
+00:29:33:06 - 00:29:35:07
+There have been cycleswhere it took more than a month
+
+00:29:35:07 - 00:29:37:06
+to get peoplethrough the interview process.
+
+00:29:37:06 - 00:29:39:23
+So again, we're not sayingsacrifice quality.
+
+00:29:40:02 - 00:29:42:22
+What we are saying islet's be deliberate in how we move.
+
+00:29:43:17 - 00:29:46:10
+And then the final sectionare the SLA making sure
+
+00:29:46:10 - 00:29:50:00
+that we are providing feedbackand as close to 24 hours as possible
+
+00:29:50:08 - 00:29:54:01
+that were rising to the occasionfor calls to action within 48 hours,
+
+00:29:54:06 - 00:29:59:01
+and that we're making a hiring decisionwithin 48 hour, 24 hours as well.
+
+00:29:59:01 - 00:30:02:02
+So as we look at thisrecruiting process overall
+
+00:30:02:09 - 00:30:06:05
+and we as we move our people through stepsone, two, three, four and five,
+
+00:30:06:14 - 00:30:09:12
+remembering that I knowthis kind of looks like a game board
+
+00:30:09:12 - 00:30:13:07
+and this was sort of done on purposeso that you can understand
+
+00:30:13:07 - 00:30:15:10
+how to move your piecethrough the process.
+
+00:30:15:10 - 00:30:16:19
+We are dealing with human beings.
+
+00:30:16:19 - 00:30:18:15
+We are dealing with peoplethat are interested
+
+00:30:18:15 - 00:30:22:13
+in advancing their careerand making that career choice to align
+
+00:30:22:14 - 00:30:24:23
+with a companythat aligns to their core values,
+
+00:30:24:23 - 00:30:27:00
+that will provide them opportunitiesfor growth,
+
+00:30:27:00 - 00:30:27:21
+that will introduce them
+
+00:30:27:21 - 00:30:31:01
+to interesting technologiesthat will afford them a voice, and what
+
+00:30:31:02 - 00:30:34:05
+the next evolution of this organizationwill look like and taking
+
+00:30:34:05 - 00:30:37:11
+that seriously as we engage with themat each step of this process,
+
+00:30:38:21 - 00:30:40:02
+there's nothing really
+
+00:30:40:02 - 00:30:43:02
+extremely new about thisexcept maybe for the time frames,
+
+00:30:43:02 - 00:30:47:02
+except maybe for some more guardrailsaround some of the processes in general.
+
+00:30:47:02 - 00:30:50:03
+This is the same process we followed hereat Legal Zoom for a while.
+
+00:30:50:03 - 00:30:54:07
+We've just put some clearer definitionsaround expectations and participation.
+
+00:30:54:18 - 00:30:56:19
+But if you have any questions,if you have any thoughts
+
+00:30:56:19 - 00:30:59:08
+or given any feedback, we want to hear,we want to know about it.
+
+00:30:59:18 - 00:31:03:05
+We will continually evaluatethis process every quarter
+
+00:31:03:14 - 00:31:07:15
+and at the beginning of every new yearto determine what needs to be updated,
+
+00:31:07:15 - 00:31:11:17
+what needs to be changed, and ultimately,what should we start doing, stop doing
+
+00:31:12:01 - 00:31:15:12
+and continueto do so at the end of the day,
+
+00:31:15:12 - 00:31:18:17
+your feedback will be criticalbecause you are a partner in this process.
+
+00:31:18:17 - 00:31:20:22
+This is a 5050 relationship.
+
+00:31:20:22 - 00:31:23:01
+Our job is to bring the candidatesto the table.
+
+00:31:23:08 - 00:31:24:13
+Your job is to screen
+
+00:31:24:13 - 00:31:26:24
+and make the right selectionsthat are best for you and the company.
+
+00:31:27:14 - 00:31:29:18
+Continue to give us feedbackon how we can do that better.
+
+00:31:30:05 - 00:31:31:20
+Thank you for your time today.
+
+00:31:31:20 - 00:31:46:00
+Have a good day.
+

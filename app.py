@@ -27,25 +27,30 @@ def describefile():
 @app.route('/fine-tuner', methods=['POST'])
 def finetuner():
   from python.model_functions import raw_pr
+  import pandas as pd
   
   filename = request.form["filename"]
   description = request.form["description"]
   cycles = request.form["cycles"]
-  new_id = uuid.uuid4().hex
   
-  db["pr-"+new_id] = {
+  prify_id = uuid.uuid4().hex
+  prcsv_id = uuid.uuid4().hex
+  
+  db["prify-"+prify_id] = {
     "filename": filename,
     "description": description,
     "cycles": cycles,
     "file-type": filename.rsplit(".",1)[1],
-    "prompt-response-docs": {}
+    "local-cleansed-doc": "prcsv-"+prcsv_id+".csv",
+    "openai-doc-id": ""
   }
   file_path = "user-uploads/"+filename
   
   with open(file_path, "r") as f:
     text = f.read()
-  
-  cleansed = raw_pr(file = text, topic = description, cycles = cycles)
+  #cleansed = raw_pr(file = text, topic = description, cycles = cycles)
+
+  #cleansed.to_csv("pr_csvs/prcsv-"+prcsv_id+".csv")
   return render_template('k-fine-tuner.html')
 
 
